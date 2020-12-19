@@ -41,6 +41,10 @@ code, pre{
     color: #fff;
     padding: 10px;
 }
+.hidden{
+    visibility: hidden;
+    height: 0;
+}
 .nav-bar{
     background-color: var(--primary-color);
     color: #fff;
